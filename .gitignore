@@ -15,3 +15,5 @@ Makefile
 *.Makefile
 *.mk
 out/
+
+/.idea/
